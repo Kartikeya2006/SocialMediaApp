@@ -8,8 +8,6 @@ LinkedX is a social platform for professional networking and job seeking made wi
 * Profile Detail View: Users can create/customize their profiles.
 * Connection: Users can connect with one another.
 * Chat Utility: Realtime Chat facility between Connected Users.
-## Video Demonstration
-* Click [here](https://drive.google.com/drive/u/1/folders/17kwOJhitKxr9VGdQJ9nJJ9H_0BxGjjHD) for the video demonstration
 ## Frontend
 ### Technologies used
 * [ReactJS](https://react.dev/): React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.
@@ -19,7 +17,7 @@ LinkedX is a social platform for professional networking and job seeking made wi
 * First ensure you have NodeJS installed in your computer. If not, you can get [here](https://nodejs.org/en/)).
 * Clone The Repository on your local machine: 
     ```bash
-    $ git clone https://github.com/sajji18/social-media-app.git
+    $ git clone https://github.com/Kartikeya2006/SocialMediaApp.git
     ```
 * #### Dependencies
     1. Install all the npm packages. Go into the project folder and type the following command to install all npm packages
